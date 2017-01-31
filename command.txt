@@ -1,0 +1,1 @@
+python evaluate.py --checkpoint ./rain-princess.ckpt --in-path ./input_image.jpg --out-path ./output_image.jpg
